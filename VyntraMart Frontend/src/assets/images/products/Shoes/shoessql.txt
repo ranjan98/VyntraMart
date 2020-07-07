@@ -1,0 +1,62 @@
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1000', 'Puma', 'Men White Smash Leather Sneakers', 'assets/images/products/Shoes/Shoes-1000.png', 1, 100, 2299, 5, NOW());
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1001', 'Nike', 'Men Black Court Borough Low Sneakers', 'assets/images/products/Shoes/Shoes-1001.png', 1, 130, 3599, 5, NOW());
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1002', 'ADIDAS', 'Men Grey Woven Design Lite Racer RBN Sneakers', 'assets/images/products/Shoes/Shoes-1002.png', 1, 130, 5999, 5, NOW());
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1003', 'U.S. Polo Assn.', 'Men Grey Solid Driving Shoes', 'assets/images/products/Shoes/Shoes-1003.png', 1, 200, 1999, 5, NOW());
+
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1004', 'Woodland', 'Men Navy Blue Textured Leather Mid-Top Sneakers', 'assets/images/products/Shoes/Shoes-1004.png', 1, 75, 4699, 5, NOW());
+
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1005', 'Roadster', 'Men Black Sneakers', 'assets/images/products/Shoes/Shoes-1005.png', 1, 250, 1499, 5, NOW());
+
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1006', 'Red Tape', 'Men Black Leather Driving Shoes', 'assets/images/products/Shoes/Shoes-1006.png', 1, 300, 1999, 5, NOW());
+
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1007', 'Royal Enfield', 'Men Olive Green Solid Leather Mid-Top Flat Boots', 'assets/images/products/Shoes/Shoes-1007.png', 1, 50, 3599, 5, NOW());
+
+
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1008', 'Woodland', 'Men Camel Brown Solid Leather Mid-Top Flat Boots', 'assets/images/products/Shoes/Shoes-1008.png', 1, 75, 3049, 5, NOW());
+
+
+INSERT INTO PRODUCT (SKU, NAME, DESCRIPTION, IMAGE_URL, ACTIVE, UNITS_IN_STOCK, UNIT_PRICE, CATEGORY_ID,DATE_CREATED)
+ VALUES ('Shoes-1009', 'Mast & Harbour', 'Mast &amp; Harbour Men Grey Solid Sneakers', 'assets/images/products/Shoes/Shoes-1009.png', 1, 220, 1749, 5, NOW());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
